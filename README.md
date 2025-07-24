@@ -52,4 +52,4 @@ Lisensi: Creative Commons CC BY 4.0
 
 ---
 
-> *Proyek ini dibuat sebagai bagian dari tugas besar UTS untuk mata kuliah yang diampu oleh Bapak Hendri Setiawan, S.Kom, M.T.*
+> *Proyek ini dibuat sebagai bagian dari tugas besar UTS untuk mata kuliah yang diampu oleh Bapak Hendri Kharisma, S.Kom, M.T.*
