@@ -1,7 +1,6 @@
-<!-- ⌨️ Typing Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0A0A0A&center=true&vCenter=true&width=700&lines=Klasifikasi+Insomnia+berdasarkan+Data+Tidur+dan+Gejala;Machine+Learning+untuk+Deteksi+Risiko+Insomnia" alt="Typing SVG" />
-</h1>
+<!--Title -->
+<h1 align="center">Klasifikasi Insomnia Berdasarkan Pola Tidur dan Gejala</h1>
+<p align="center"><strong><i>Deteksi Dini Gangguan Tidur Menggunakan Pendekatan Machine Learning</i></strong></p>
 
 # Klasifikasi Insomnia Berdasarkan Data Pola Tidur dan Gejala
 
