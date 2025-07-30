@@ -2,9 +2,8 @@
 <h1 align="center">Klasifikasi Insomnia Berdasarkan Pola Tidur dan Gejala</h1>
 <p align="center"><strong><i>Deteksi Dini Gangguan Tidur Menggunakan Pendekatan Machine Learning</i></strong></p>
 
-# Klasifikasi Insomnia Berdasarkan Data Pola Tidur dan Gejala
 
-Proyek ini bertujuan untuk membangun model klasifikasi untuk mendeteksi risiko **insomnia** berdasarkan data gejala dan kebiasaan tidur. Data bersumber dari dataset terbuka dan digunakan untuk pelatihan model machine learning seperti **Logistic Regression** dan **Decision Tree Classifier**.
+<p align="center"><strong><i>Proyek ini bertujuan untuk membangun model klasifikasi untuk mendeteksi risiko **insomnia** berdasarkan data gejala dan kebiasaan tidur. Data bersumber dari dataset terbuka dan digunakan untuk pelatihan model machine learning seperti **Logistic Regression** dan **Decision Tree Classifier**.</i></strong></p>
 
 ## Struktur Proyek
 
