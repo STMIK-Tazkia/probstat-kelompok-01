@@ -7,9 +7,11 @@
 
 ## Struktur Proyek
 
-- `Insomniac_data.xlsx` : Dataset berisi fitur-fitur gejala dan pola tidur.
-- `thanksinsomnia.ipynb` : Notebook Jupyter berisi proses preprocessing, modeling, evaluasi, dan visualisasi.
-- `Proposal-Modeling-Dataset-Insomnia.docx` : Dokumen proposal berisi penjelasan latar belakang, metodologi, dan rencana modeling.
+- `PaperJournal/` – Naskah akhir proyek dalam format `.docx` dan `.pdf`
+- `Proposal/` – Dokumen proposal awal proyek dan perencanaan modeling
+- `SourceCode/` – Notebook Jupyter berisi preprocessing, modeling, evaluasi, dan visualisasi
+- `Dataset/` – Dataset insomnia dalam format `.csv` untuk original dataset dan `.xlsx` untuk praktik
+- `README.md` – Dokumentasi lengkap proyek
 
 ## Deskripsi Dataset
 
